@@ -31,7 +31,7 @@ void move(int from, int to)
     tower3.push_back(value);
   }
 
-  // std::cout << ": " << "ABC"[from - 1] << " to " << "ABC"[to - 1] << std::endl;
+  std::cout << ": " << "ABC"[from - 1] << " to " << "ABC"[to - 1] << std::endl;
 }
 
 int main(int argc, char **argv)
@@ -80,3 +80,4 @@ int main(int argc, char **argv)
 
   return 0;
 }
+

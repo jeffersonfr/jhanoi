@@ -84,5 +84,7 @@ int main(int argc, char **argv)
     // printf(": %c to %c\n", "ABC"[from - 1], "ABC"[to - 1]);
   }
 
+  puts("");
+
   return 0;
 }
