@@ -17,7 +17,7 @@ Lets consider the sequences below to solve the problem:
   03 disk[s]: [AC AB CB] [AC BA BC] AC
   04 disk[s]: [AC AB CB] [AC BA BC] [AC AB CB] [CA BA CB] [AC AB CB] 
 
-Lets consider also the follwing:
+Lets consider also the following:
 
   AB = BC = 110
   AC = CA = 101
